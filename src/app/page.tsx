@@ -6,7 +6,7 @@ export default function Home() {
     { english: "pan", arabic: "طاسة" },
     { english: "bar", arabic: "قطعة" },
     { english: "apple", arabic: "تفاحة" },
-    { english: "banana", arabic: "بنانة" },
+    { english: "banana", arabic: "موزة" },
     { english: "ball", arabic: "كرة" },
     { english: "cat", arabic: "قطة" },
     { english: "dog", arabic: "كلب" },
